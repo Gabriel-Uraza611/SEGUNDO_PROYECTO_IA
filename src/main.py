@@ -1,1 +1,5 @@
-#punto de entrada (inicia el juego)
+from model import game
+
+if __name__ == "__main__":
+    game = game()
+    game.run()
