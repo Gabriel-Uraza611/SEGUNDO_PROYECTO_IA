@@ -57,8 +57,3 @@
 
 Este proyecto implementa un juego de cartas que hace uso del algoritmo minimax.
 
-
----
-
-*Ambos métodos representan enfoques heurísticos que equilibran entre la eficiencia de búsqueda y la calidad de la solución, ofreciendo diferentes estrategias para la toma de decisiones del agente en entornos complejos.*
-
