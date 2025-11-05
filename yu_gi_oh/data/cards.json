@@ -1,162 +1,407 @@
 [ 
     { 
-        "id": 1,
-        "name": "Zombie Warrior",
+        "name": "Dancing Elf",
+        "number": 395,
+        "type": "Fairy",
+        "attack": 300,
+        "defense": 200,
+        "level": 1
+    },
+
+    { 
+        "name": "Boo Koo",
+        "number": 486,
+        "type": "Spellcaster",
+        "attack": 650,
+        "defense": 500,
+        "level": 2
+    },
+
+    { 
+        "name": "Battle Ox",
+        "number": 26,
+        "type": "Beast-Warrior",
+        "attack": 1700,
+        "defense": 1000,
+        "level": 4
+    },
+    
+    { 
+        "name": "Orion the Battle King",
+        "number": 126,
+        "type": "Fairy",
+        "attack": 1800,
+        "defense": 1500,
+        "level": 5
+    },
+
+    { 
+        "name": "Petit Dragon",
+        "number": 200,
+        "type": "Dragon",
+        "attack": 600,
+        "defense": 700,
+        "level": 2
+    },
+
+    
+    { 
+        "name": "Dark Prisoner",
+        "number": 173,
+        "type": "Fiend",
+        "attack": 600,
+        "defense": 1000,
+        "level": 3
+    },
+
+    
+{ 
+        "name": "Lesser Dragon",
+        "number": 561,
+        "type": "Dragon",
+        "attack": 1200,
+        "defense": 1000,
+        "level": 4
+    },
+
+    
+{ 
+        "name": "D. Human",
+        "number": 502,
+        "type": "Warrior",
+        "attack": 1300,
+        "defense": 1100,
+        "level": 4
+    },
+
+    
+{ 
+        "name": "Hinotama Soul",
+        "number": 210,
+        "type": "Pyro",
+        "attack": 600,
+        "defense": 500,
+        "level": 2
+    },
+
+    
+{ 
+        "name": "Sonic Maid",
+        "number": 299,
+        "type": "Warrior",
         "attack": 1200,
         "defense": 900,
         "level": 3 
     },
 
-    { 
-        "id": 2,
-        "name": "Koumori Dragon",
-        "attack": 1500,
+    
+{ 
+        "name": "Time Wizard",
+        "number": 16,
+        "type": "Spellcaster",
+        "attack": 500,
+        "defense": 400,
+        "level": 2
+    },
+
+    
+{ 
+        "name": "Embryonic Beast",
+        "number": 254,
+        "type": "Fiend",
+        "attack": 500,
+        "defense": 750,
+        "level": 2
+    },
+
+    
+{ 
+        "name": "Mystery Hand",
+        "number": 137,
+        "type": "Fiend",
+        "attack": 500,
+        "defense": 500,
+        "level": 2
+    },
+
+    
+{ 
+        "name": "Ancient Jar",
+        "number": 167,
+        "type": "Rock",
+        "attack": 400,
+        "defense": 200,
+        "level": 1
+    },
+
+    
+{ 
+        "name": "Fire Reaper",
+        "number": 154,
+        "type": "Zombie",
+        "attack": 700,
+        "defense": 500,
+        "level": 2
+    },
+
+    
+{ 
+        "name": "Doron",
+        "number": 195,
+        "type": "Warrior",
+        "attack": 900,
+        "defense": 500,
+        "level": 2 
+    },
+
+    
+{ 
+        "name": "Fairy Dragon",
+        "number": 603,
+        "type": "Dragon",
+        "attack": 1100,
         "defense": 1200,
-        "level": 4
+        "level": 4 
     },
 
-    { 
-        "id": 3,
-        "name": "Two-headed King Rex",
-        "attack": 1600,
+    
+{ 
+        "name": "Gate Deeg",
+        "number": 187,
+        "type": "Beast",
+        "attack": 700,
+        "defense": 800,
+        "level": 3 
+    },
+
+    
+{ 
+        "name": "The Judgement Hand",
+        "number": 165,
+        "type": "Warrior",
+        "attack": 1400,
+        "defense": 700,
+        "level": 3 
+    },
+
+    
+{ 
+        "name": "Oscillo Hero",
+        "number": 559,
+        "type": "Warrior",
+        "attack": 1250,
+        "defense": 700,
+        "level": 3 
+    },
+
+    
+{ 
+        "name": "Graveyard and the Hand of Invitation",
+        "number": 153,
+        "type": "Zombie",
+        "attack": 900,
         "defense": 1200,
-        "level": 4
+        "level": 3 
     },
 
-    { 
-        "id": 4,
-        "name": "Judge Man",
-        "attack": 2200,
-        "defense": 1500,
-        "level": 6
-    },
-
-    { 
-        "id": 5,
-        "name": "Saggi the Dark Clown",
-        "attack": 600,
-        "defense": 1500,
-        "level": 3
-    },
-
-    { 
-        "id": 6,
-        "name": "Dark Magician",
-        "attack": 2500,
-        "defense": 2100,
-        "level": 7
-    },
-
-    { 
-        "id": 7,
-        "name": "The Snake Hair",
-        "attack": 1500,
-        "defense": 1200,
-        "level": 4
-    },
-
-    { 
-        "id": 8,
-        "name": "Gaia the Dragon Champion",
-        "attack": 2600,
-        "defense": 2100,
-        "level": 7
-    },
-
-    { 
-        "id": 9,
+    
+{ 
         "name": "Gaia the Fierce Knight",
+        "number": 38,
+        "type": "Warrior",
         "attack": 2300,
         "defense": 2100,
-        "level": 7
+        "level": 7 
     },
 
-    { 
-        "id": 10,
-        "name": "Curse of Dragon",
-        "attack": 2000,
-        "defense": 1500,
-        "level": 5
+    
+{ 
+        "name": "Tyhone #2",
+        "number": 555,
+        "type": "Dragon",
+        "attack": 1700,
+        "defense": 1900,
+        "level": 6 
     },
 
-    { 
-        "id": 11,
-        "name": "Dragon Piper",
-        "attack": 200,
-        "defense": 1800,
-        "level": 3
+    
+{ 
+        "name": "Wing Egg Elf",
+        "number": 264,
+        "type": "Fairy",
+        "attack": 500,
+        "defense": 1300,
+        "level": 3 
     },
 
-    { 
-        "id": 12,
-        "name": "Celtic Guardian",
-        "attack": 1400,
-        "defense": 1200,
-        "level": 4
-    },
-
-    { 
-        "id": 13,
-        "name": "Ilusionist Faceless Mage",
+    
+{ 
+        "name": 1,
+        "number": "Armored Zombie",
+        "type": "Monster",
         "attack": 1200,
-        "defense": 2200,
-        "level": 5
+        "defense": 900,
+        "level": 3 
     },
 
-    { 
-        "id": 14,
-        "name": "Karbonala Warrior",
-        "attack": 1500,
-        "defense": 1200,
-        "level": 4
+    
+{ 
+        "name": "Harpie Lady",
+        "number": 62,
+        "type": "Winged Beast",
+        "attack": 1300,
+        "defense": 1400,
+        "level": 4 
     },
 
-    { 
-        "id": 15,
-        "name": "Rogue Doll",
-        "attack": 1600,
-        "defense": 1000,
-        "level": 4
-    },
-
-    { 
-        "id": 16,
-        "name": "Oscillo Hero #2",
-        "attack": 1000,
-        "defense": 500,
-        "level": 3
-    },
-
-    { 
-        "id": 17,
-        "name": "Griffore",
-        "attack": 1200,
-        "defense": 1500,
-        "level": 4
-    },
-
-    { 
-        "id": 18,
-        "name": "Torike",
-        "attack": 1200,
+    
+{ 
+        "name": "Air Marmot of Nefariousness",
+        "number": 202,
+        "type": "Beast",
+        "attack": 400,
         "defense": 600,
-        "level": 3
+        "level": 2 
     },
 
-    { 
-        "id": 19,
-        "name": "Sangan",
-        "attack": 1000,
-        "defense": 600,
-        "level": 3
-    },
-
-    { 
-        "id": 20,
-        "name": "Big Insect",
+    
+{ 
+        "name": 1,
+        "number": "Pumpking the King of Ghosts",
+        "type": "Monster",
         "attack": 1200,
-        "defense": 1500,
-        "level": 4
+        "defense": 900,
+        "level": 3 
+    },
+
+    
+{ 
+        "name": 1,
+        "number": "Battle Wrrior",
+        "type": "Monster",
+        "attack": 1200,
+        "defense": 900,
+        "level": 3 
+    },
+
+    
+{ 
+        "name": 1,
+        "number": "Spirit of the Books",
+        "type": "Monster",
+        "attack": 1200,
+        "defense": 900,
+        "level": 3 
+    },
+
+    
+{ 
+        "name": 1,
+        "number": "The 13th Grave",
+        "type": "Monster",
+        "attack": 1200,
+        "defense": 900,
+        "level": 3 
+    },
+
+    
+{ 
+        "name": 1,
+        "number": "Charubin the Fire Knight",
+        "type": "Monster",
+        "attack": 1200,
+        "defense": 900,
+        "level": 3 
+    },
+
+    
+{ 
+        "name": 1,
+        "number": "Witty Phantom",
+        "type": "Monster",
+        "attack": 1200,
+        "defense": 900,
+        "level": 3 
+    },
+
+    
+{ 
+        "name": 1,
+        "number": "Dragon Statue",
+        "type": "Monster",
+        "attack": 1200,
+        "defense": 900,
+        "level": 3 
+    },
+
+    
+{ 
+        "name": 1,
+        "number": "Lord of the Lamp",
+        "type": "Monster",
+        "attack": 1200,
+        "defense": 900,
+        "level": 3 
+    },
+
+    
+{ 
+        "name": 1,
+        "number": "Fire Reaper",
+        "type": "Monster",
+        "attack": 1200,
+        "defense": 900,
+        "level": 3 
+    },
+
+    
+{ 
+        "name": 1,
+        "number": "Firegrass",
+        "type": "Monster",
+        "attack": 1200,
+        "defense": 900,
+        "level": 3 
+    },
+
+    
+{ 
+        "name": 1,
+        "number": "Tainted Wisdom",
+        "type": "Monster",
+        "attack": 1200,
+        "defense": 900,
+        "level": 3 
+    },
+
+    
+{ 
+        "name": 1,
+        "number": "Darkfire Dragon",
+        "type": "Monster",
+        "attack": 1200,
+        "defense": 900,
+        "level": 3 
+    },
+
+    
+{ 
+        "name": 1,
+        "number": "Big Eye",
+        "type": "Monster",
+        "attack": 1200,
+        "defense": 900,
+        "level": 3 
+    },
+
+    
+{ 
+        "name": 1,
+        "number": "Turtle Tiger",
+        "type": "Monster",
+        "attack": 1200,
+        "defense": 900,
+        "level": 3 
     }
     
 ]
