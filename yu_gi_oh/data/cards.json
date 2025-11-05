@@ -1,0 +1,162 @@
+[ 
+    { 
+        "id": 1,
+        "name": "Zombie Warrior",
+        "attack": 1200,
+        "defense": 900,
+        "level": 3 
+    },
+
+    { 
+        "id": 2,
+        "name": "Koumori Dragon",
+        "attack": 1500,
+        "defense": 1200,
+        "level": 4
+    },
+
+    { 
+        "id": 3,
+        "name": "Two-headed King Rex",
+        "attack": 1600,
+        "defense": 1200,
+        "level": 4
+    },
+
+    { 
+        "id": 4,
+        "name": "Judge Man",
+        "attack": 2200,
+        "defense": 1500,
+        "level": 6
+    },
+
+    { 
+        "id": 5,
+        "name": "Saggi the Dark Clown",
+        "attack": 600,
+        "defense": 1500,
+        "level": 3
+    },
+
+    { 
+        "id": 6,
+        "name": "Dark Magician",
+        "attack": 2500,
+        "defense": 2100,
+        "level": 7
+    },
+
+    { 
+        "id": 7,
+        "name": "The Snake Hair",
+        "attack": 1500,
+        "defense": 1200,
+        "level": 4
+    },
+
+    { 
+        "id": 8,
+        "name": "Gaia the Dragon Champion",
+        "attack": 2600,
+        "defense": 2100,
+        "level": 7
+    },
+
+    { 
+        "id": 9,
+        "name": "Gaia the Fierce Knight",
+        "attack": 2300,
+        "defense": 2100,
+        "level": 7
+    },
+
+    { 
+        "id": 10,
+        "name": "Curse of Dragon",
+        "attack": 2000,
+        "defense": 1500,
+        "level": 5
+    },
+
+    { 
+        "id": 11,
+        "name": "Dragon Piper",
+        "attack": 200,
+        "defense": 1800,
+        "level": 3
+    },
+
+    { 
+        "id": 12,
+        "name": "Celtic Guardian",
+        "attack": 1400,
+        "defense": 1200,
+        "level": 4
+    },
+
+    { 
+        "id": 13,
+        "name": "Ilusionist Faceless Mage",
+        "attack": 1200,
+        "defense": 2200,
+        "level": 5
+    },
+
+    { 
+        "id": 14,
+        "name": "Karbonala Warrior",
+        "attack": 1500,
+        "defense": 1200,
+        "level": 4
+    },
+
+    { 
+        "id": 15,
+        "name": "Rogue Doll",
+        "attack": 1600,
+        "defense": 1000,
+        "level": 4
+    },
+
+    { 
+        "id": 16,
+        "name": "Oscillo Hero #2",
+        "attack": 1000,
+        "defense": 500,
+        "level": 3
+    },
+
+    { 
+        "id": 17,
+        "name": "Griffore",
+        "attack": 1200,
+        "defense": 1500,
+        "level": 4
+    },
+
+    { 
+        "id": 18,
+        "name": "Torike",
+        "attack": 1200,
+        "defense": 600,
+        "level": 3
+    },
+
+    { 
+        "id": 19,
+        "name": "Sangan",
+        "attack": 1000,
+        "defense": 600,
+        "level": 3
+    },
+
+    { 
+        "id": 20,
+        "name": "Big Insect",
+        "attack": 1200,
+        "defense": 1500,
+        "level": 4
+    }
+    
+]
