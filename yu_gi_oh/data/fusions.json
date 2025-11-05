@@ -1,0 +1,398 @@
+[ 
+    { 
+        "name": "Mystical Elf",
+        "number": 582,
+        "type": "Fairy",
+        "attack": 1800,
+        "defense": 1700,
+        "level": 5
+    },
+
+    { 
+        "name": "Baby Dragon",
+        "number": 61,
+        "type": "Beast",
+        "attack": 1200,
+        "defense": 800,
+        "level": 3
+    },
+    
+    { 
+        "name": "Shadow Specter",
+        "number": 117,
+        "type": "Aqua",
+        "attack": 800,
+        "defense": 1000,
+        "level": 3
+    },
+
+    { 
+        "name": "Blackland Fire Dragon",
+        "number": 519,
+        "type": "Aqua",
+        "attack": 1600,
+        "defense": 1500,
+        "level": 5
+    },
+
+    
+    { 
+        "name": "Sword Arm of Dragon",
+        "number": 169,
+        "type": "Fiend",
+        "attack": 1200,
+        "defense": 800,
+        "level": 3
+    },
+
+    
+{ 
+        "name": 1,
+        "number": "Flame Swordsman",
+        "type": "Monster",
+        "attack": 1200,
+        "defense": 900,
+        "level": 3 
+    },
+
+    
+{ 
+        "name": 1,
+        "number": "Summoned Skull",
+        "type": "Monster",
+        "attack": 1200,
+        "defense": 900,
+        "level": 3 
+    },
+
+    
+{ 
+        "name": 1,
+        "number": "The Wicked Worm Beast",
+        "type": "Monster",
+        "attack": 1200,
+        "defense": 900,
+        "level": 3 
+    },
+
+    
+{ 
+        "name": 1,
+        "number": "Zombie Warrior",
+        "type": "Monster",
+        "attack": 1200,
+        "defense": 900,
+        "level": 3 
+    },
+
+    
+{ 
+        "name": 1,
+        "number": "Koumori Dragon",
+        "type": "Monster",
+        "attack": 1200,
+        "defense": 900,
+        "level": 3 
+    },
+
+    
+{ 
+        "name": 1,
+        "number": "Judge Man",
+        "type": "Monster",
+        "attack": 1200,
+        "defense": 900,
+        "level": 3 
+    },
+
+    
+{ 
+        "name": 1,
+        "number": "The Snake Hair",
+        "type": "Monster",
+        "attack": 1200,
+        "defense": 900,
+        "level": 3 
+    },
+
+    
+{ 
+        "name": 1,
+        "number": "Gaia the Dragon Champion",
+        "type": "Monster",
+        "attack": 1200,
+        "defense": 900,
+        "level": 3 
+    },
+
+    
+{ 
+        "name": 1,
+        "number": "Curse of Dragon",
+        "type": "Monster",
+        "attack": 1200,
+        "defense": 900,
+        "level": 3 
+    },
+
+    
+{ 
+        "name": 1,
+        "number": "Celtic Guardian",
+        "type": "Monster",
+        "attack": 1200,
+        "defense": 900,
+        "level": 3 
+    },
+
+    
+{ 
+        "name": 1,
+        "number": "Harpie Lady Sisters",
+        "type": "Monster",
+        "attack": 1200,
+        "defense": 900,
+        "level": 3 
+    },
+
+    
+{ 
+        "name": 1,
+        "number": "Tiger Axe",
+        "type": "Monster",
+        "attack": 1200,
+        "defense": 900,
+        "level": 3 
+    },
+
+    
+{ 
+        "name": 1,
+        "number": "Thousand Dragon",
+        "type": "Monster",
+        "attack": 1200,
+        "defense": 900,
+        "level": 3 
+    },
+
+    
+{ 
+        "name": 1,
+        "number": "Cocoon of Evolution",
+        "type": "Monster",
+        "attack": 1200,
+        "defense": 900,
+        "level": 3 
+    },
+
+    
+{ 
+        "name": 1,
+        "number": "Kairyu-Shin",
+        "type": "Monster",
+        "attack": 1200,
+        "defense": 900,
+        "level": 3 
+    },
+
+    
+{ 
+        "name": 1,
+        "number": "Red-eyes B. Dragon",
+        "type": "Monster",
+        "attack": 1200,
+        "defense": 900,
+        "level": 3 
+    },
+
+    
+{ 
+        "name": 1,
+        "number": "Reaper of the Cards",
+        "type": "Monster",
+        "attack": 1200,
+        "defense": 900,
+        "level": 3 
+    },
+
+    
+{ 
+        "name": 1,
+        "number": "Rabid Horseman",
+        "type": "Monster",
+        "attack": 1200,
+        "defense": 900,
+        "level": 3 
+    },
+
+    
+{ 
+        "name": 1,
+        "number": "Armored Zombie",
+        "type": "Monster",
+        "attack": 1200,
+        "defense": 900,
+        "level": 3 
+    },
+
+    
+{ 
+        "name": 1,
+        "number": "Dragon Zombie",
+        "type": "Monster",
+        "attack": 1200,
+        "defense": 900,
+        "level": 3 
+    },
+
+    
+{ 
+        "name": 1,
+        "number": "Clown Zombie",
+        "type": "Monster",
+        "attack": 1200,
+        "defense": 900,
+        "level": 3 
+    },
+
+    
+{ 
+        "name": 1,
+        "number": "Pumpking the King of Ghosts",
+        "type": "Monster",
+        "attack": 1200,
+        "defense": 900,
+        "level": 3 
+    },
+
+    
+{ 
+        "name": 1,
+        "number": "Battle Wrrior",
+        "type": "Monster",
+        "attack": 1200,
+        "defense": 900,
+        "level": 3 
+    },
+
+    
+{ 
+        "name": 1,
+        "number": "Spirit of the Books",
+        "type": "Monster",
+        "attack": 1200,
+        "defense": 900,
+        "level": 3 
+    },
+
+    
+{ 
+        "name": 1,
+        "number": "The 13th Grave",
+        "type": "Monster",
+        "attack": 1200,
+        "defense": 900,
+        "level": 3 
+    },
+
+    
+{ 
+        "name": 1,
+        "number": "Charubin the Fire Knight",
+        "type": "Monster",
+        "attack": 1200,
+        "defense": 900,
+        "level": 3 
+    },
+
+    
+{ 
+        "name": 1,
+        "number": "Witty Phantom",
+        "type": "Monster",
+        "attack": 1200,
+        "defense": 900,
+        "level": 3 
+    },
+
+    
+{ 
+        "name": 1,
+        "number": "Dragon Statue",
+        "type": "Monster",
+        "attack": 1200,
+        "defense": 900,
+        "level": 3 
+    },
+
+    
+{ 
+        "name": 1,
+        "number": "Lord of the Lamp",
+        "type": "Monster",
+        "attack": 1200,
+        "defense": 900,
+        "level": 3 
+    },
+
+    
+{ 
+        "name": 1,
+        "number": "Fire Reaper",
+        "type": "Monster",
+        "attack": 1200,
+        "defense": 900,
+        "level": 3 
+    },
+
+    
+{ 
+        "name": 1,
+        "number": "Firegrass",
+        "type": "Monster",
+        "attack": 1200,
+        "defense": 900,
+        "level": 3 
+    },
+
+    
+{ 
+        "name": 1,
+        "number": "Tainted Wisdom",
+        "type": "Monster",
+        "attack": 1200,
+        "defense": 900,
+        "level": 3 
+    },
+
+    
+{ 
+        "name": 1,
+        "number": "Darkfire Dragon",
+        "type": "Monster",
+        "attack": 1200,
+        "defense": 900,
+        "level": 3 
+    },
+
+    
+{ 
+        "name": 1,
+        "number": "Big Eye",
+        "type": "Monster",
+        "attack": 1200,
+        "defense": 900,
+        "level": 3 
+    },
+
+    
+{ 
+        "name": 1,
+        "number": "Turtle Tiger",
+        "type": "Monster",
+        "attack": 1200,
+        "defense": 900,
+        "level": 3 
+    }
+
+]
