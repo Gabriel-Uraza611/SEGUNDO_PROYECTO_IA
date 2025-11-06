@@ -266,9 +266,9 @@
 
     
 { 
-        "name": 1,
-        "number": "Pumpking the King of Ghosts",
-        "type": "Monster",
+        "name": "Stuffed Animal",
+        "number": 354,
+        "type": "Warrior",
         "attack": 1200,
         "defense": 900,
         "level": 3 
@@ -276,9 +276,19 @@
 
     
 { 
-        "name": 1,
-        "number": "Battle Wrrior",
-        "type": "Monster",
+        "name": "Graveyard and the Hand of Invitation",
+        "number": 108,
+        "type": "Zombie",
+        "attack": 700,
+        "defense": 900,
+        "level": 3 
+    },
+
+    
+{ 
+        "name": "The 13th Grave",
+        "number": 132,
+        "type": "Zombie",
         "attack": 1200,
         "defense": 900,
         "level": 3 
@@ -286,122 +296,488 @@
 
     
 { 
-        "name": 1,
-        "number": "Spirit of the Books",
-        "type": "Monster",
-        "attack": 1200,
-        "defense": 900,
+        "name": "Gaia the Fierce Knight",
+        "number": 38,
+        "type": "Warrior",
+        "attack": 2300,
+        "defense": 2100,
+        "level": 7
+    },
+
+    
+{ 
+        "name": "Curse of Dragon",
+        "number": 39,
+        "type": "Dragon",
+        "attack": 2000,
+        "defense": 1500,
+        "level": 5
+    },
+
+    
+{ 
+        "name": "Meteor Dragon",
+        "number": 712,
+        "type": "Dragon",
+        "attack": 1800,
+        "defense": 2000,
+        "level": 6 
+    },
+
+    
+{ 
+        "name": "Bone Mouse",
+        "number": 548,
+        "type": "Zombie",
+        "attack": 400,
+        "defense": 300,
+        "level": 1 
+    },
+
+    
+{ 
+        "name": "Hyo",
+        "number": 250,
+        "type": "Warrior",
+        "attack": 800,
+        "defense": 1200,
         "level": 3 
     },
 
     
 { 
-        "name": 1,
-        "number": "The 13th Grave",
-        "type": "Monster",
-        "attack": 1200,
-        "defense": 900,
+        "name": "Elegant Egotist",
+        "number": 318,
+        "type": "",
+        "attack": 0,
+        "defense": 0,
         "level": 3 
     },
 
     
 { 
-        "name": 1,
-        "number": "Charubin the Fire Knight",
-        "type": "Monster",
-        "attack": 1200,
-        "defense": 900,
+        "name": "Obese Marmot of Nefariousness",
+        "number":604,
+        "type": "Beast",
+        "attack": 750,
+        "defense": 800,
         "level": 3 
     },
 
     
 { 
-        "name": 1,
-        "number": "Witty Phantom",
-        "type": "Monster",
-        "attack": 1200,
-        "defense": 900,
-        "level": 3 
+        "name": "Moon Envoy",
+        "number": 290,
+        "type": "Warrior",
+        "attack": 1100,
+        "defense": 1000,
+        "level": 4
     },
 
     
 { 
-        "name": 1,
-        "number": "Dragon Statue",
-        "type": "Monster",
-        "attack": 1200,
-        "defense": 900,
-        "level": 3 
+        "name": "Fiend Sword",
+        "number": 225,
+        "type": "Warrior",
+        "attack": 1400,
+        "defense": 800,
+        "level": 4 
     },
 
     
 { 
-        "name": 1,
-        "number": "Lord of the Lamp",
-        "type": "Monster",
-        "attack": 1200,
-        "defense": 900,
-        "level": 3 
+        "name": "Trakiminos",
+        "number": 353,
+        "type": "Sea Serpent",
+        "attack": 1500,
+        "defense": 1200,
+        "level": 4 
     },
 
     
 { 
-        "name": 1,
-        "number": "Fire Reaper",
-        "type": "Monster",
+        "name": "Summoned Skull",
+        "number": 22,
+        "type": "Fiend",
+        "attack": 2500,
+        "defense": 1200,
+        "level": 6 
+    },
+    
+
+{ 
+        "name": "LaMoon",
+        "number": 128,
+        "type": "Spellcaster",
         "attack": 1200,
-        "defense": 900,
-        "level": 3 
+        "defense": 1700,
+        "level": 5 
+    },
+
+
+{ 
+        "name": "Spike Seadra",
+        "number": 448,
+        "type": "Sea Serpent",
+        "attack": 1600,
+        "defense": 1300,
+        "level": 5 
     },
 
     
 { 
-        "name": 1,
-        "number": "Firegrass",
-        "type": "Monster",
-        "attack": 1200,
-        "defense": 900,
+        "name": "Turtle Tiger",
+        "number": 193,
+        "type": "Aqua",
+        "attack": 1000,
+        "defense": 1500,
+        "level": 4
+    },
+
+
+{ 
+        "name": "Darkfire Dragon",
+        "number": 168,
+        "type": "Dragon",
+        "attack": 1500,
+        "defense": 1250,
+        "level": 4 
+    },
+
+{ 
+        "name": "Koumori Dragon",
+        "number": 31,
+        "type": "Dragon",
+        "attack": 1500,
+        "defense": 1200,
+        "level": 4 
+    },
+
+{ 
+        "name": "Saggi the Dark Clown",
+        "number": 34,
+        "type": "Spellcaster",
+        "attack": 600,
+        "defense": 1500,
         "level": 3 
+    },
+
+{ 
+        "name": "Battle Ox",
+        "number": 26,
+        "type": "Beast-Warrior",
+        "attack": 1700,
+        "defense": 1000,
+        "level": 4 
+    },
+
+{ 
+        "name": "Mystic Horseman",
+        "number": 91,
+        "type": "Beast",
+        "attack": 1300,
+        "defense": 1550,
+        "level": 4
+    },
+
+{ 
+        "name": "Blue-eyed Silver Zombie",
+        "number": 139,
+        "type": "Zombie",
+        "attack": 900,
+        "defense": 700,
+        "level": 3
+    },
+
+
+{ 
+        "name": "Dimensional Warrior",
+        "number": 256,
+        "type": "Warrior",
+        "attack": 1200,
+        "defense": 1000,
+        "level": 4
+    },
+
+{ 
+        "name": "Yamatono Dragon Scroll",
+        "number": 122,
+        "type": "Dragon",
+        "attack": 900,
+        "defense": 300,
+        "level": 2
+    },
+
+{ 
+        "name": "Mech Mole Zombie",
+        "number": 197,
+        "type": "Zombie",
+        "attack": 500,
+        "defense": 400,
+        "level": 2
+    },
+
+{ 
+        "name": "Crass Clown",
+        "number": 95,
+        "type": "Fiend",
+        "attack": 1350,
+        "defense": 1400,
+        "level": 4
+    },
+
+
+{ 
+        "name": "Final Flame",
+        "number": 345,
+        "type": "Magic",
+        "attack": 0,
+        "defense": 0,
+        "level": 0
     },
 
     
 { 
-        "name": 1,
-        "number": "Tainted Wisdom",
-        "type": "Monster",
-        "attack": 1200,
-        "defense": 900,
-        "level": 3 
+        "name": "The Snake Hair",
+        "number": 36,
+        "type": "Zombie",
+        "attack": 1500,
+        "defense": 1200,
+        "level": 4
     },
 
-    
+
 { 
-        "name": 1,
-        "number": "Darkfire Dragon",
-        "type": "Monster",
-        "attack": 1200,
-        "defense": 900,
-        "level": 3 
+        "name": "Mystic Horseman",
+        "number": 91,
+        "type": "Beast",
+        "attack": 1300,
+        "defense": 1550,
+        "level": 4
     },
 
-    
+
 { 
-        "name": 1,
-        "number": "Big Eye",
-        "type": "Monster",
-        "attack": 1200,
-        "defense": 900,
-        "level": 3 
+        "name": "Rainbow Flower",
+        "number": 488,
+        "type": "Plant",
+        "attack": 400,
+        "defense": 500,
+        "level": 2
     },
 
-    
+
 { 
-        "name": 1,
-        "number": "Turtle Tiger",
-        "type": "Monster",
+        "name": "Shadow Specter",
+        "number": 9,
+        "type": "Zombie",
+        "attack": 500,
+        "defense": 200,
+        "level": 1
+    },
+
+
+{ 
+        "name": "Queen Bird",
+        "number": 468,
+        "type": "Winged Beast",
+        "attack": 1200,
+        "defense": 2000,
+        "level": 5
+    },
+
+
+{ 
+        "name": "Dream Clown",
+        "number": 120,
+        "type": "Warrior",
         "attack": 1200,
         "defense": 900,
-        "level": 3 
+        "level": 3
+    },
+
+
+{ 
+        "name": "Mysterious Puppeteer",
+        "number": 166,
+        "type": "Warrior",
+        "attack": 1000,
+        "defense": 1500,
+        "level": 4
+    },
+
+
+{ 
+        "name": "Dissolverock",
+        "number": 244,
+        "type": "Rock",
+        "attack": 900,
+        "defense": 1000,
+        "level": 3
+    },
+
+
+{ 
+        "name": "Armed Ninja",
+        "number": 469,
+        "type": "Warrior",
+        "attack": 300,
+        "defense": 300,
+        "level": 1
+    },
+
+
+{ 
+        "name": "Armored Zombie",
+        "number": 96,
+        "type": "Zombie",
+        "attack": 1500,
+        "defense": 0,
+        "level": 3
+    },
+
+
+{ 
+        "name": "Wood Clown",
+        "number": 231,
+        "type": "Warrior",
+        "attack": 800,
+        "defense": 1200,
+        "level": 3
+    },
+
+
+{ 
+        "name": "Wicked Dragon with the Ersatz Head",
+        "number": 298,
+        "type": "Dragon",
+        "attack": 900,
+        "defense": 900,
+        "level": 3
+    },
+
+
+{ 
+        "name": "Masked Clown",
+        "number": 182,
+        "type": "Warrior",
+        "attack": 500,
+        "defense": 700,
+        "level": 2
+    },
+
+
+{ 
+        "name": "Mystic Lamp",
+        "number": 387,
+        "type": "Spellcaster",
+        "attack": 400,
+        "defense": 300,
+        "level": 1
+    },
+
+{ 
+        "name": "Nemuriko",
+        "number": 129,
+        "type": "Spellcaster",
+        "attack": 800,
+        "defense": 700,
+        "level": 3
+    },
+
+
+{ 
+        "name": "Flame Viper",
+        "number": 644,
+        "type": "Pyro",
+        "attack": 400,
+        "defense": 450,
+        "level": 2
+    },
+
+
+{ 
+        "name": "Tentacle Plant",
+        "number": 589,
+        "type": "Plant",
+        "attack": 500,
+        "defense": 600,
+        "level": 2
+    },
+
+
+{ 
+        "name": "Ancient Brain",
+        "number": 175,
+        "type": "Fiend",
+        "attack": 1000,
+        "defense": 700,
+        "level": 3
+    },
+
+
+{ 
+        "name": "Invisible Wire",
+        "number": 684,
+        "type": "Trap",
+        "attack": 0,
+        "defense": 0,
+        "level": 0
+    },
+
+{ 
+        "name": "Zone Eater",
+        "number": 393,
+        "type": "Aqua",
+        "attack": 250,
+        "defense": 200,
+        "level": 1
+    },
+
+{ 
+        "name": "Widespread Ruin",
+        "number": 686,
+        "type": "Trap",
+        "attack": 0,
+        "defense": 0,
+        "level": 0
+    },
+
+{ 
+        "name": "Monster Eye",
+        "number": 402,
+        "type": "Fiend",
+        "attack": 250,
+        "defense": 350,
+        "level": 1
+    },
+
+{ 
+        "name": "House of Adhesive Tape",
+        "number": 681,
+        "type": "Trap",
+        "attack": 0,
+        "defense": 0,
+        "level": 0
+    },
+
+
+{ 
+        "name": "Turtle Raccoon",
+        "number": 503,
+        "type": "Aqua",
+        "attack": 700,
+        "defense": 900,
+        "level": 3
+    },
+
+
+{ 
+        "name": "Synchar",
+        "number": 188,
+        "type": "Beast",
+        "attack": 800,
+        "defense": 900,
+        "level": 3
     }
-    
 ]
